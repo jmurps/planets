@@ -1,2 +1,4 @@
 pluto
 planet_X
+*.dat
+!c.dat
